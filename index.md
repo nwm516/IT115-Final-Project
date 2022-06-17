@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-[Test Page](https://github.com/nwm516/IT115-Final-Project/test.html)
+<a href="/IT115-Final-Project/test.html">Test Page</a>
 
 
 You can use the [editor on GitHub](https://github.com/nwm516/IT115-Final-Project/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
